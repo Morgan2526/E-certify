@@ -1,0 +1,41 @@
+.t{
+    margin-left: 480px ;
+    margin-top: 250px;
+    border: 5px double wheat;
+    height: 50px;
+    width: 650px;
+    border-radius: 20px;
+}
+
+.btn{
+    margin:10px
+}
+
+
+.bg1{
+
+background-image: url("https://innovationatwork.ieee.org/wp-content/uploads/2018/06/bigstock-Blockchain-technology-futurist-225602305-1024x576.jpg");
+background-repeat: no-repeat;
+width: 1536px;
+height: 721px;
+margin-left: 0px;
+margin-top: 0px;
+/* background-size: cover; */
+background-size: 100% 100%;
+/* background-position: initial; */
+
+}
+
+.btn1{
+    margin:10px;
+    margin-left: 750px;
+    margin-top: 20px;
+    /* margin-right:-500px; */
+    
+}
+/* .btn2{
+    margin:10px;
+    margin-left: 750px;
+    margin-top: 20px;
+    
+} */

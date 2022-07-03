@@ -1,0 +1,27 @@
+/* Styles go here
+body{
+    color: darkseagreen;
+    background-color: darkseagreen;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLPzvkYbohefo-YfxfSoFUl0BLp97LJPuCA&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-top: 50px;
+
+}
+
+
+.view a{
+    color: rgb(162, 201, 162);
+   font-size:xx-large;
+}
+
+
+.view a:hover{
+    color:lawngreen;
+   font-size:xx-large;
+   text-decoration: none;
+}
+
+.btn{
+    color: white;
+} */

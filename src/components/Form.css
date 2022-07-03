@@ -1,0 +1,68 @@
+.bg3{
+    background-image: url("https://st.depositphotos.com/1077687/1743/v/600/depositphotos_17438061-stock-illustration-university-icons.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+    margin-top: 80px;
+    margin-left: 940px;
+    /* width:500px; image-resolution:300dpi; */
+}
+
+.t3{
+    margin-left: -1500px;
+
+}
+
+.view{
+     margin-top: 450px;
+     margin-left: -20px;
+     /* padding-top: 50px ; */
+}
+
+.view a{
+    color: black; 
+    font-size:larger; 
+    font-weight: bolder; 
+    color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.view a:hover{
+    /* color: black; */
+    text-decoration:underline;
+    font-size: larger;  
+}
+
+.b{
+    margin-top: 20px;
+}
+
+.b5{
+  
+   
+    /* background: rgba(245, 220, 179, 0.562); */
+    
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/c/c9/KLE_Technological_University_Logo.png");
+    background-repeat: no-repeat;
+    image-orientation: inherit;
+    border: 5px solid black;
+    margin-left: -50px;
+    padding-top: -50px;
+    margin-top: 00px;
+    height:500px;
+    width:500px;
+    border-radius: 50px;
+}
+
+.fi {
+    margin-left: 135px;
+    /* width: 50px; */
+    height: 30px;
+    border-radius: 20px;
+    margin-top: -300px;
+}
+
+/* .ha{
+    padding: 0px;
+} */
